@@ -7,9 +7,9 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (1 day ago)- :zap: Dynamically generated stats for your github readmes
-- [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (3 days ago)- Stale profile-readme
-- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (6 days ago)- Rhythm based input engine similiar to the game Patapon
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 days ago)- :zap: Dynamically generated stats for your github readmes
+- [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (4 days ago)- Stale profile-readme
+- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 week ago)- Rhythm based input engine similiar to the game Patapon
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (1 week ago)- WakaTime-Plugin for the Elgato Streamdeck 
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2 weeks ago)- 
 - [github/docs](https://github.com/github/docs) (3 months ago)- The open-source repo for docs.github.com
