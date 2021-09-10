@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (today)- An Angular wrapper for bootstrap-darkmode.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 day ago)- An Angular wrapper for bootstrap-darkmode.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (1 week ago)- :zap: Dynamically generated stats for your github readmes
 - [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (1 week ago)- Stale profile-readme
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 week ago)- Rhythm based input engine similiar to the game Patapon
