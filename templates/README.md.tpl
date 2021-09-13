@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})- {{.Repo.Description}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}) - {{.Repo.Description}}
 {{- end}}
 
 #### 🌱 My latest projects
