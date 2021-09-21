@@ -7,12 +7,12 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (5 days ago) - This tool visualizes evolution charts of digimon.
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (6 days ago) - This tool visualizes evolution charts of digimon.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 week ago) - An Angular wrapper for bootstrap-darkmode.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 weeks ago) - :zap: Dynamically generated stats for your github readmes
-- [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (2 weeks ago) - Stale profile-readme
+- [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (3 weeks ago) - Stale profile-readme
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (3 weeks ago) - Rhythm based input engine similiar to the game Patapon
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (3 weeks ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (4 weeks ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (1 month ago) - 
 - [github/docs](https://github.com/github/docs) (3 months ago) - The open-source repo for docs.github.com
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (3 months ago) - Certification as a Service Monorepo
