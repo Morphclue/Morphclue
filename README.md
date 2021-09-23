@@ -30,7 +30,6 @@ I wanted to focus more on open-source development in the future and help out oth
 
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 4 weeks ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 2 months ago) - An Angular wrapper for bootstrap-darkmode.
-- [andli/pymkm](https://github.com/andli/pymkm) ([2.5.1](https://github.com/andli/pymkm/releases/tag/2.5.1), 6 months ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 7 months ago) - 
 
 #### 👯 Check out some of my recent followers
