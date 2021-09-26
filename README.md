@@ -14,8 +14,8 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (4 weeks ago) - Rhythm based input engine similiar to the game Patapon
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (1 month ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (1 month ago) - 
-- [github/docs](https://github.com/github/docs) (3 months ago) - The open-source repo for docs.github.com
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (3 months ago) - Certification as a Service Monorepo
+- [github/docs](https://github.com/github/docs) (3 months ago) - The open-source repo for docs.github.com
 - [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (5 months ago) - Repository for Bug Issues or Feature Requests
 
 #### 🌱 My latest projects
