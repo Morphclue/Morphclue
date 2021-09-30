@@ -8,14 +8,14 @@ I wanted to focus more on open-source development in the future and help out oth
 #### 👷 Check out what I'm currently working on
 
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (2 weeks ago) - This tool visualizes evolution charts of digimon.
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 weeks ago) - An Angular wrapper for bootstrap-darkmode.
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (3 weeks ago) - :zap: Dynamically generated stats for your github readmes
-- [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (4 weeks ago) - Stale profile-readme
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (3 weeks ago) - An Angular wrapper for bootstrap-darkmode.
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (4 weeks ago) - :zap: Dynamically generated stats for your github readmes
+- [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (1 month ago) - Stale profile-readme
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 month ago) - Rhythm based input engine similiar to the game Patapon
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (1 month ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (1 month ago) - 
-- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (3 months ago) - Certification as a Service Monorepo
-- [github/docs](https://github.com/github/docs) (3 months ago) - The open-source repo for docs.github.com
+- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (4 months ago) - Certification as a Service Monorepo
+- [github/docs](https://github.com/github/docs) (4 months ago) - The open-source repo for docs.github.com
 - [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (5 months ago) - Repository for Bug Issues or Feature Requests
 
 #### 🌱 My latest projects
