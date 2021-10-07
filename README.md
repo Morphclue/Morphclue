@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (6 days ago) - This tool visualizes evolution charts of digimon.
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (3 weeks ago) - An Angular wrapper for bootstrap-darkmode.
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 week ago) - This tool visualizes evolution charts of digimon.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (4 weeks ago) - An Angular wrapper for bootstrap-darkmode.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (1 month ago) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (1 month ago) - Stale profile-readme
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 month ago) - Rhythm based input engine similiar to the game Patapon
