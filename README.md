@@ -9,7 +9,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (3 weeks ago) - This tool visualizes evolution charts of digimon.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 month ago) - An Angular wrapper for bootstrap-darkmode.
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (1 month ago) - :zap: Dynamically generated stats for your github readmes
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 months ago) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (2 months ago) - Stale profile-readme
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (2 months ago) - Rhythm based input engine similiar to the game Patapon
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (2 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
