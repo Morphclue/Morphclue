@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 days ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (3 weeks ago) - This tool visualizes evolution charts of digimon.
+- [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (3 days ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (4 weeks ago) - This tool visualizes evolution charts of digimon.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 month ago) - An Angular wrapper for bootstrap-darkmode.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 months ago) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (2 months ago) - Stale profile-readme
@@ -29,7 +29,7 @@ I wanted to focus more on open-source development in the future and help out oth
 #### 🔭 Latest releases I've contributed to
 
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 2 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 3 months ago) - An Angular wrapper for bootstrap-darkmode.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 4 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 8 months ago) - 
 
 #### 👯 Check out some of my recent followers
