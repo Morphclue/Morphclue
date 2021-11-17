@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (6 days ago) - FFXIV Free Company Website written in Angular
+- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 week ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 months ago) - An Angular wrapper for bootstrap-darkmode.
@@ -15,7 +15,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (2 months ago) - Stale profile-readme
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (2 months ago) - Rhythm based input engine similiar to the game Patapon
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (2 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
-- [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2 months ago) - 
+- [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (3 months ago) - 
 - [github/docs](https://github.com/github/docs) (5 months ago) - The open-source repo for docs.github.com
 
 #### 🌱 My latest projects
