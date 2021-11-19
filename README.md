@@ -7,20 +7,24 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (today) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (today) - Virtual pet role-playing game based on Digimon World
+- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (today) - Interviews about the game Digimon World 1 in form of transcripts
+- [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (today) - Data and R-code for survey conducted about Digimon World 1.
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 week ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 months ago) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (2 months ago) - Stale profile-readme
-- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (2 months ago) - Rhythm based input engine similiar to the game Patapon
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (2 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
-- [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (3 months ago) - 
-- [github/docs](https://github.com/github/docs) (5 months ago) - The open-source repo for docs.github.com
 
 #### 🌱 My latest projects
 
+- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) - FFXIV Free Company Website written in Angular
+- [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) - Data and R-code for survey conducted about Digimon World 1.
+- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) - Virtual pet role-playing game based on Digimon World
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) - This tool visualizes evolution charts of digimon.
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) - Rhythm based input engine similiar to the game Patapon
