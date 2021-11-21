@@ -9,14 +9,14 @@ I wanted to focus more on open-source development in the future and help out oth
 
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (1 day ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (2 days ago) - Virtual pet role-playing game based on Digimon World
-- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (2 days ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (2 days ago) - Data and R-code for survey conducted about Digimon World 1.
+- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (2 days ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 week ago) - FFXIV Free Company Website written in Angular
+- [pygments/pygments](https://github.com/pygments/pygments) (1 week ago) - Pygments is a generic syntax highlighter written in Python
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 months ago) - :zap: Dynamically generated stats for your github readmes
-- [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (2 months ago) - Stale profile-readme
 
 #### 🌱 My latest projects
 
@@ -34,6 +34,7 @@ I wanted to focus more on open-source development in the future and help out oth
 #### 🔭 Latest releases I've contributed to
 
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 2 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.10.0](https://github.com/pygments/pygments/releases/tag/2.10.0), 3 months ago) - Pygments is a generic syntax highlighter written in Python
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 4 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 9 months ago) - 
 
