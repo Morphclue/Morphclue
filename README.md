@@ -7,12 +7,12 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (1 day ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (2 days ago) - Virtual pet role-playing game based on Digimon World
-- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (2 days ago) - Interviews about the game Digimon World 1 in form of transcripts
-- [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (2 days ago) - Data and R-code for survey conducted about Digimon World 1.
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (2 days ago) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (3 days ago) - Virtual pet role-playing game based on Digimon World
+- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (3 days ago) - Interviews about the game Digimon World 1 in form of transcripts
+- [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (3 days ago) - Data and R-code for survey conducted about Digimon World 1.
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 week ago) - FFXIV Free Company Website written in Angular
-- [pygments/pygments](https://github.com/pygments/pygments) (1 week ago) - Pygments is a generic syntax highlighter written in Python
+- [pygments/pygments](https://github.com/pygments/pygments) (2 weeks ago) - Pygments is a generic syntax highlighter written in Python
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 months ago) - An Angular wrapper for bootstrap-darkmode.
