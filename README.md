@@ -7,13 +7,13 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (today) - Bachelor Thesis - Conception and development of a role-playing game
-- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (3 days ago) - Interviews about the game Digimon World 1 in form of transcripts
-- [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (3 days ago) - Data and R-code for survey conducted about Digimon World 1.
-- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (3 days ago) - Virtual pet role-playing game based on Digimon World
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (1 day ago) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (4 days ago) - Interviews about the game Digimon World 1 in form of transcripts
+- [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (4 days ago) - Data and R-code for survey conducted about Digimon World 1.
+- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (4 days ago) - Virtual pet role-playing game based on Digimon World
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 week ago) - FFXIV Free Company Website written in Angular
 - [pygments/pygments](https://github.com/pygments/pygments) (2 weeks ago) - Pygments is a generic syntax highlighter written in Python
-- [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
+- [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (3 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 months ago) - :zap: Dynamically generated stats for your github readmes
@@ -33,9 +33,9 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), today) - Interviews about the game Digimon World 1 in form of transcripts
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), today) - Bachelor Thesis - Conception and development of a role-playing game
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 2 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 1 day ago) - Interviews about the game Digimon World 1 in form of transcripts
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 1 day ago) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 3 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.10.0](https://github.com/pygments/pygments/releases/tag/2.10.0), 3 months ago) - Pygments is a generic syntax highlighter written in Python
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 4 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 9 months ago) - 
