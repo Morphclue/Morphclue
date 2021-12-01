@@ -16,7 +16,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (4 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 months ago) - An Angular wrapper for bootstrap-darkmode.
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 months ago) - :zap: Dynamically generated stats for your github readmes
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (3 months ago) - :zap: Dynamically generated stats for your github readmes
 
 #### 🌱 My latest projects
 
