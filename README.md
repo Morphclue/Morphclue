@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 week ago) - FFXIV Free Company Website written in Angular
+- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (today) - FFXIV Free Company Website written in Angular
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (3 weeks ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (4 weeks ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (4 weeks ago) - Virtual pet role-playing game based on Digimon World
