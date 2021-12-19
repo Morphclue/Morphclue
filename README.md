@@ -7,11 +7,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 day ago) - FFXIV Free Company Website written in Angular
+- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (2 days ago) - FFXIV Free Company Website written in Angular
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (3 weeks ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (4 weeks ago) - Interviews about the game Digimon World 1 in form of transcripts
-- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (4 weeks ago) - Virtual pet role-playing game based on Digimon World
-- [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (4 weeks ago) - Data and R-code for survey conducted about Digimon World 1
+- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (1 month ago) - Interviews about the game Digimon World 1 in form of transcripts
+- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (1 month ago) - Virtual pet role-playing game based on Digimon World
+- [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (1 month ago) - Data and R-code for survey conducted about Digimon World 1
 - [pygments/pygments](https://github.com/pygments/pygments) (1 month ago) - Pygments is a generic syntax highlighter written in Python
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (1 month ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (2 months ago) - This tool visualizes evolution charts of digimon
