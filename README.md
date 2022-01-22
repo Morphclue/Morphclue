@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (6 days ago) - FFXIV Free Company Website written in Angular
+- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 week ago) - FFXIV Free Company Website written in Angular
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 weeks ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (2 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (2 months ago) - Data and R-code for survey conducted about Digimon World 1
@@ -36,7 +36,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.11.2](https://github.com/pygments/pygments/releases/tag/2.11.2), 2 weeks ago) - Pygments is a generic syntax highlighter written in Python
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 2 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 2 months ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 4 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 5 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 6 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 11 months ago) - 
 
