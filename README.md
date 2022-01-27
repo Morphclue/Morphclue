@@ -7,6 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (1 day ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 days ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (4 days ago) - FFXIV Free Company Website written in Angular
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 weeks ago) - This tool fetches all games on itch.io to create a trend history
@@ -15,7 +16,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (2 months ago) - Virtual pet role-playing game based on Digimon World
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (2 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [pygments/pygments](https://github.com/pygments/pygments) (2 months ago) - Pygments is a generic syntax highlighter written in Python
-- [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 months ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (3 months ago) - This tool visualizes evolution charts of digimon
 
 #### 🌱 My latest projects
