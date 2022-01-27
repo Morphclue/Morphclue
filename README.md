@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 days ago) - The fulib.org website and Fulib Scenarios web app.
-- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (3 days ago) - FFXIV Free Company Website written in Angular
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 days ago) - The fulib.org website and Fulib Scenarios web app.
+- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (4 days ago) - FFXIV Free Company Website written in Angular
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 weeks ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (2 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (2 months ago) - Data and R-code for survey conducted about Digimon World 1
@@ -33,7 +33,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.11.2](https://github.com/pygments/pygments/releases/tag/2.11.2), 2 weeks ago) - Pygments is a generic syntax highlighter written in Python
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.11.2](https://github.com/pygments/pygments/releases/tag/2.11.2), 3 weeks ago) - Pygments is a generic syntax highlighter written in Python
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 2 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 2 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 5 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
