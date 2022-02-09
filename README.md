@@ -7,19 +7,20 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (today) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (5 days ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (2 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (2 months ago) - Data and R-code for survey conducted about Digimon World 1
-- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (2 months ago) - Virtual pet role-playing game based on Digimon World
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (2 months ago) - Interviews about the game Digimon World 1 in form of transcripts
+- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (2 months ago) - Virtual pet role-playing game based on Digimon World
 - [pygments/pygments](https://github.com/pygments/pygments) (3 months ago) - Pygments is a generic syntax highlighter written in Python
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (4 months ago) - This tool visualizes evolution charts of digimon
 
 #### 🌱 My latest projects
 
+- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) - FFXIV Free Company Website written in Angular
@@ -29,7 +30,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) - This tool visualizes evolution charts of digimon
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) - Rhythm based input engine similiar to the game Patapon
-- [Morphclue/START-Hack-21](https://github.com/Morphclue/START-Hack-21) - START Hackathon - 2021
 
 #### 🔭 Latest releases I've contributed to
 
