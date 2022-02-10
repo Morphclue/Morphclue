@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (today) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
-- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (5 days ago) - FFXIV Free Company Website written in Angular
+- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (1 day ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
+- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (6 days ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
@@ -38,7 +38,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 2 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 5 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 7 months ago) - An Angular wrapper for bootstrap-darkmode.
-- [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 11 months ago) - 
+- [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 1 year ago) - 
 
 #### 👯 Check out some of my recent followers
 
