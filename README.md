@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (1 day ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
+- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (2 days ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (2 weeks ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (4 weeks ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
