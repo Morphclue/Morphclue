@@ -33,6 +33,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.10.0](https://github.com/fujaba/fulib.org/releases/tag/v1.10.0), today) - The fulib.org website and Fulib Scenarios web app.
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.11.2](https://github.com/pygments/pygments/releases/tag/2.11.2), 1 month ago) - Pygments is a generic syntax highlighter written in Python
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 3 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 3 months ago) - Bachelor Thesis - Conception and development of a role-playing game
