@@ -7,16 +7,16 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (1 week ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
+- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (today) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (1 week ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 month ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (1 month ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 months ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (3 months ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (3 months ago) - Virtual pet role-playing game based on Digimon World
-- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (3 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (3 months ago) - Data and R-code for survey conducted about Digimon World 1
+- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (3 months ago) - Interviews about the game Digimon World 1 in form of transcripts
+- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) (3 months ago) - Virtual pet role-playing game based on Digimon World
 
 #### 🌱 My latest projects
 
