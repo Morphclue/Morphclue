@@ -7,11 +7,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (3 days ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
+- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (4 days ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (3 weeks ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 month ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (1 month ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 months ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (4 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (4 months ago) - Data and R-code for survey conducted about Digimon World 1
