@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (today) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (6 days ago) - This tool visualizes evolution charts of digimon
-- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (1 week ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (1 month ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (1 month ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 months ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
