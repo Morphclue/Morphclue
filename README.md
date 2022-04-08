@@ -7,7 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (1 week ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
+- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (today) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 week ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (1 month ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (2 months ago) - FFXIV Free Company Website written in Angular
@@ -15,11 +16,11 @@ I wanted to focus more on open-source development in the future and help out oth
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (3 months ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (4 months ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (4 months ago) - Data and R-code for survey conducted about Digimon World 1
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) (4 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 
 #### 🌱 My latest projects
 
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) - Calendar tool for coordinating meetings
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) - This tool fetches all games on itch.io to create a trend history
@@ -29,7 +30,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/evo-world](https://github.com/Morphclue/evo-world) - Virtual pet role-playing game based on Digimon World
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) - This tool visualizes evolution charts of digimon
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) - WakaTime-Plugin for the Elgato Streamdeck 
 
 #### 🔭 Latest releases I've contributed to
 
