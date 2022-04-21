@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (1 week ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (3 weeks ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (1 month ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
@@ -15,7 +15,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 months ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (3 months ago) - This tool fetches all games on itch.io to create a trend history
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (4 months ago) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (5 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) (5 months ago) - Data and R-code for survey conducted about Digimon World 1
 
 #### 🌱 My latest projects
@@ -33,10 +33,10 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 1 week ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.11.2](https://github.com/pygments/pygments/releases/tag/2.11.2), 3 months ago) - Pygments is a generic syntax highlighter written in Python
-- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 4 months ago) - Interviews about the game Digimon World 1 in form of transcripts
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 4 months ago) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 5 months ago) - Interviews about the game Digimon World 1 in form of transcripts
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 5 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 7 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 9 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 1 year ago) - A rhythm game made with HaxeFlixel
