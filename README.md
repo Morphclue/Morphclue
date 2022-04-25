@@ -9,7 +9,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (2 weeks ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (4 weeks ago) - This tool visualizes evolution charts of digimon
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (1 month ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (2 months ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (2 months ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
@@ -33,7 +33,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), today) - Pygments is a generic syntax highlighter written in Python
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), 1 day ago) - Pygments is a generic syntax highlighter written in Python
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 5 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 5 months ago) - Bachelor Thesis - Conception and development of a role-playing game
