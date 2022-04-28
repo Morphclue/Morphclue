@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (today) - Java Code-Camp Context Awareness 2 - 2022
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (1 day ago) - Java Code-Camp Context Awareness 2 - 2022
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (2 weeks ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (1 month ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
@@ -33,8 +33,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), 3 days ago) - Pygments is a generic syntax highlighter written in Python
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), 4 days ago) - Pygments is a generic syntax highlighter written in Python
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 5 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 5 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 8 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
