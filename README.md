@@ -7,6 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (today) - Custom Graph Engine
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (2 days ago) - Java Code-Camp Context Awareness 2 - 2022
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (3 weeks ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
@@ -16,10 +17,10 @@ I wanted to focus more on open-source development in the future and help out oth
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (3 months ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (3 months ago) - This tool fetches all games on itch.io to create a trend history
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (5 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 
 #### 🌱 My latest projects
 
+- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) - Custom Graph Engine
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) - Java Code-Camp Context Awareness 2 - 2022
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) - Calendar tool for coordinating meetings
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
@@ -29,7 +30,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) - FFXIV Free Company Website written in Angular
 - [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) - Data and R-code for survey conducted about Digimon World 1
 - [Morphclue/evo-world](https://github.com/Morphclue/evo-world) - Virtual pet role-playing game based on Digimon World
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) - Bachelor Thesis - Conception and development of a role-playing game
 
 #### 🔭 Latest releases I've contributed to
 
