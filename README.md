@@ -7,6 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (today) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (2 days ago) - Custom Graph Engine
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (4 days ago) - Java Code-Camp Context Awareness 2 - 2022
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
@@ -16,10 +17,10 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (2 months ago) - FFXIV Free Company Website written in Angular
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (3 months ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 months ago) - The fulib.org website and Fulib Scenarios web app.
-- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (3 months ago) - This tool fetches all games on itch.io to create a trend history
 
 #### 🌱 My latest projects
 
+- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) - Custom Graph Engine
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) - Java Code-Camp Context Awareness 2 - 2022
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) - Calendar tool for coordinating meetings
@@ -29,7 +30,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) - FFXIV Free Company Website written in Angular
 - [Morphclue/digimon-world-survey](https://github.com/Morphclue/digimon-world-survey) - Data and R-code for survey conducted about Digimon World 1
-- [Morphclue/evo-world](https://github.com/Morphclue/evo-world) - Virtual pet role-playing game based on Digimon World
 
 #### 🔭 Latest releases I've contributed to
 
