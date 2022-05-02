@@ -7,9 +7,9 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (today) - Android-Kotlin fundamentals course
-- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (2 days ago) - Custom Graph Engine
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (4 days ago) - Java Code-Camp Context Awareness 2 - 2022
+- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (1 day ago) - Android-Kotlin fundamentals course
+- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (3 days ago) - Custom Graph Engine
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (5 days ago) - Java Code-Camp Context Awareness 2 - 2022
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (3 weeks ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
