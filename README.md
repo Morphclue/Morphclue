@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (2 days ago) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (4 days ago) - Custom Graph Engine
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (6 days ago) - Java Code-Camp Context Awareness 2 - 2022
