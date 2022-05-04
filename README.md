@@ -7,8 +7,9 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (1 day ago) - Solution to Three missionaries and three cannibals problem 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (today) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (1 day ago) - Solution to Three missionaries and three cannibals problem 
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (3 days ago) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (5 days ago) - Custom Graph Engine
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (1 week ago) - Java Code-Camp Context Awareness 2 - 2022
@@ -16,7 +17,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (2 months ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (2 months ago) - FFXIV Free Company Website written in Angular
-- [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) (3 months ago) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 
 #### 🌱 My latest projects
 
