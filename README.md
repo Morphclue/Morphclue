@@ -7,11 +7,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (today) - Solution to Three missionaries and three cannibals problem 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
-- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (2 days ago) - Android-Kotlin fundamentals course
-- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (4 days ago) - Custom Graph Engine
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (6 days ago) - Java Code-Camp Context Awareness 2 - 2022
+- [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (1 day ago) - Solution to Three missionaries and three cannibals problem 
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (3 days ago) - Android-Kotlin fundamentals course
+- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (5 days ago) - Custom Graph Engine
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (1 week ago) - Java Code-Camp Context Awareness 2 - 2022
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (3 weeks ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (2 months ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
@@ -38,7 +38,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 5 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 5 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 8 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 9 months ago) - An Angular wrapper for bootstrap-darkmode.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 10 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 1 year ago) - A rhythm game made with HaxeFlixel
 
 #### 👯 Check out some of my recent followers
