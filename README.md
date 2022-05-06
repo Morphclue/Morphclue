@@ -7,13 +7,13 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (1 day ago) - :zap: Dynamically generated stats for your github readmes
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
-- [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (2 days ago) - Solution to Three missionaries and three cannibals problem 
-- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (4 days ago) - Android-Kotlin fundamentals course
-- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (6 days ago) - Custom Graph Engine
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 days ago) - :zap: Dynamically generated stats for your github readmes
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (3 days ago) - Solution to Three missionaries and three cannibals problem 
+- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (5 days ago) - Android-Kotlin fundamentals course
+- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (1 week ago) - Custom Graph Engine
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (1 week ago) - Java Code-Camp Context Awareness 2 - 2022
-- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (3 weeks ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
+- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (4 weeks ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (2 months ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (3 months ago) - FFXIV Free Company Website written in Angular
