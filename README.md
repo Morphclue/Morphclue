@@ -7,11 +7,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (4 days ago) - Java Code-Camp Context Awareness 2 - 2022
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (5 days ago) - Java Code-Camp Context Awareness 2 - 2022
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (2 weeks ago) - Solution to Three missionaries and three cannibals problem 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 weeks ago) - :zap: Dynamically generated stats for your github readmes
-- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (2 weeks ago) - Android-Kotlin fundamentals course
+- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (3 weeks ago) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (3 weeks ago) - Custom Graph Engine
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (1 month ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
@@ -33,11 +33,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), 3 weeks ago) - Pygments is a generic syntax highlighter written in Python
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), 4 weeks ago) - Pygments is a generic syntax highlighter written in Python
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 6 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 6 months ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 8 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 9 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 10 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 1 year ago) - A rhythm game made with HaxeFlixel
 
