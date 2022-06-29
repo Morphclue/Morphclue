@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (2 days ago) - Java Code-Camp Context Awareness 2 - 2022
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (3 days ago) - Java Code-Camp Context Awareness 2 - 2022
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (1 month ago) - Solution to Three missionaries and three cannibals problem 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (1 month ago) - :zap: Dynamically generated stats for your github readmes
@@ -15,7 +15,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (2 months ago) - Custom Graph Engine
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (2 months ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (3 months ago) - This tool visualizes evolution charts of digimon
-- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (3 months ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
+- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (4 months ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (4 months ago) - FFXIV Free Company Website written in Angular
 
 #### 🌱 My latest projects
