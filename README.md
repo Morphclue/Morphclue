@@ -7,10 +7,10 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (2 days ago) - Java Code-Camp Context Awareness 2 - 2022
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (3 days ago) - Java Code-Camp Context Awareness 2 - 2022
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (1 month ago) - Solution to Three missionaries and three cannibals problem 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (1 month ago) - :zap: Dynamically generated stats for your github readmes
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 months ago) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (2 months ago) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (2 months ago) - Custom Graph Engine
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (2 months ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
@@ -38,7 +38,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 7 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 7 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 10 months ago) - WakaTime-Plugin for the Elgato Streamdeck 
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 11 months ago) - An Angular wrapper for bootstrap-darkmode.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 1 year ago) - An Angular wrapper for bootstrap-darkmode.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 1 year ago) - A rhythm game made with HaxeFlixel
 
 #### 👯 Check out some of my recent followers
