@@ -43,11 +43,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👯 Check out some of my recent followers
 
+- [wasanderes94](https://github.com/wasanderes94)
 - [Christo-disc0](https://github.com/Christo-disc0)
 - [Hummr01](https://github.com/Hummr01)
 - [isaq-e](https://github.com/isaq-e)
 - [YoshitakaSS](https://github.com/YoshitakaSS)
-- [Ben-Manfouo](https://github.com/Ben-Manfouo)
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
