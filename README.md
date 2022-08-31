@@ -41,11 +41,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👯 Check out some of my recent followers
 
+- [SteffenKr](https://github.com/SteffenKr)
 - [dargmuesli](https://github.com/dargmuesli)
 - [Maiswaffeln](https://github.com/Maiswaffeln)
 - [Galass94](https://github.com/Galass94)
 - [pal404blog](https://github.com/pal404blog)
-- [wasanderes94](https://github.com/wasanderes94)
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
