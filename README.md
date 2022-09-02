@@ -7,32 +7,34 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (today) - Design of the UK4You platform using different design-methods
+- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (today) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (3 days ago) - Java Code-Camp Context Awareness 2 - 2022
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (3 months ago) - Solution to Three missionaries and three cannibals problem 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (4 months ago) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (4 months ago) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (4 months ago) - Custom Graph Engine
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (4 months ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (5 months ago) - This tool visualizes evolution charts of digimon
-- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) (6 months ago) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
-- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) (7 months ago) - FFXIV Free Company Website written in Angular
 
 #### 🌱 My latest projects
 
+- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) - Solution to Three missionaries and three cannibals problem 
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) - Custom Graph Engine
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) - Java Code-Camp Context Awareness 2 - 2022
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) - Calendar tool for coordinating meetings
+- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) - This tool fetches all games on itch.io to create a trend history
-- [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) - Interviews about the game Digimon World 1 in form of transcripts
-- [Morphclue/lalafeel](https://github.com/Morphclue/lalafeel) - FFXIV Free Company Website written in Angular
 
 #### 🔭 Latest releases I've contributed to
 
+- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), today) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) ([v1.0.0](https://github.com/Morphclue/computing-and-society-2/releases/tag/v1.0.0), today) - Design of the UK4You platform using different design-methods
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.13.0](https://github.com/pygments/pygments/releases/tag/2.13.0), 2 weeks ago) - Pygments is a generic syntax highlighter written in Python
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 4 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 9 months ago) - Interviews about the game Digimon World 1 in form of transcripts
