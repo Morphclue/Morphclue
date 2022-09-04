@@ -7,10 +7,10 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (2 days ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (2 days ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (5 days ago) - Java Code-Camp Context Awareness 2 - 2022
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (4 months ago) - Solution to Three missionaries and three cannibals problem 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (4 months ago) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (4 months ago) - Android-Kotlin fundamentals course
