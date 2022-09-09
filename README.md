@@ -7,10 +7,10 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (3 days ago) - Java Code-Camp Context Awareness 2 - 2022
-- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (6 days ago) - Design of the UK4You platform using different design-methods
-- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (6 days ago) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (4 days ago) - Java Code-Camp Context Awareness 2 - 2022
+- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (1 week ago) - Design of the UK4You platform using different design-methods
+- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (1 week ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (4 months ago) - Solution to Three missionaries and three cannibals problem 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (4 months ago) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (4 months ago) - Android-Kotlin fundamentals course
@@ -33,8 +33,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), 6 days ago) - The sociotechnical aspects of the therapeutic software agent Woebot
-- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) ([v1.0.0](https://github.com/Morphclue/computing-and-society-2/releases/tag/v1.0.0), 6 days ago) - Design of the UK4You platform using different design-methods
+- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), 1 week ago) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) ([v1.0.0](https://github.com/Morphclue/computing-and-society-2/releases/tag/v1.0.0), 1 week ago) - Design of the UK4You platform using different design-methods
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.13.0](https://github.com/pygments/pygments/releases/tag/2.13.0), 3 weeks ago) - Pygments is a generic syntax highlighter written in Python
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 5 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 9 months ago) - Interviews about the game Digimon World 1 in form of transcripts
