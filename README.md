@@ -39,7 +39,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 5 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/digimon-world-transcripts](https://github.com/Morphclue/digimon-world-transcripts) ([v1.0.0](https://github.com/Morphclue/digimon-world-transcripts/releases/tag/v1.0.0), 9 months ago) - Interviews about the game Digimon World 1 in form of transcripts
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 9 months ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 1 year ago) - An Angular wrapper for bootstrap-darkmode.
 
 #### 👯 Check out some of my recent followers
 
