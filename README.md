@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (4 days ago) - Java Code-Camp Context Awareness 2
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (5 days ago) - Java Code-Camp Context Awareness 2
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (1 week ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (1 week ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (4 months ago) - Solution to Three missionaries and three cannibals problem 
