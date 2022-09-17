@@ -2,7 +2,7 @@
 <!-- Generated with - https://github.com/muesli/readme-scribe -->
 
 <img align="right" src="https://github.com/Morphclue/Morphclue/blob/master/assets/animated-logo.gif" alt="Animated Logo" width="256" height="256" />
-I'm Julian, currently a Computer Science Student. 
+I'm Julian, currently a Master Computer Science Student. 
 I wanted to focus more on open-source development in the future and help out other developers when i got time available.
 
 #### 👷 Check out what I'm currently working on
