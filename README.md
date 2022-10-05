@@ -7,15 +7,15 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (4 weeks ago) - Java Code-Camp Context Awareness 2
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (1 month ago) - Java Code-Camp Context Awareness 2
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (1 month ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (1 month ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (5 months ago) - Solution to Three missionaries and three cannibals problem 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (5 months ago) - :zap: Dynamically generated stats for your github readmes
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (5 months ago) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (5 months ago) - Custom Graph Engine
-- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (5 months ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
+- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (6 months ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (6 months ago) - This tool visualizes evolution charts of digimon
 
 #### 🌱 My latest projects
