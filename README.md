@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (3 days ago) - Extensions for ng-bootstrap
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (1 month ago) - Java Code-Camp Context Awareness 2
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (1 month ago) - Design of the UK4You platform using different design-methods
