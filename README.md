@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (today) - Seminar paper about Godot Engine for Indie Developers
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 week ago) - Extensions for ng-bootstrap
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (2 weeks ago) - Data and R-Code for a paper about game engines on Itch.io
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (1 month ago) - Java Code-Camp Context Awareness 2
