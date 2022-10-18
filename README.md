@@ -7,19 +7,20 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (today) - Seminar paper about Godot Engine for Indie Developers
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 week ago) - Extensions for ng-bootstrap
+- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (2 weeks ago) - Data and R-Code for a paper about game engines on Itch.io
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (1 month ago) - Java Code-Camp Context Awareness 2
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (1 month ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (1 month ago) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (5 months ago) - Solution to Three missionaries and three cannibals problem 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (5 months ago) - :zap: Dynamically generated stats for your github readmes
-- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) (5 months ago) - Android-Kotlin fundamentals course
-- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) (5 months ago) - Custom Graph Engine
-- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) (6 months ago) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 
 #### 🌱 My latest projects
 
+- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) - Solution to Three missionaries and three cannibals problem 
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) - Android-Kotlin fundamentals course
@@ -29,10 +30,10 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 - [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
-- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) - This tool fetches all games on itch.io to create a trend history
 
 #### 🔭 Latest releases I've contributed to
 
+- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v1.0.0](https://github.com/Morphclue/godot-seminar/releases/tag/v1.0.0), today) - Seminar paper about Godot Engine for Indie Developers
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.12.0](https://github.com/fujaba/fulib.org/releases/tag/v1.12.0), 1 week ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), 1 month ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) ([v1.0.0](https://github.com/Morphclue/computing-and-society-2/releases/tag/v1.0.0), 1 month ago) - Design of the UK4You platform using different design-methods
