@@ -8,18 +8,19 @@ I wanted to focus more on open-source development in the future and help out oth
 #### 👷 Check out what I'm currently working on
 
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (today) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (1 week ago) - Seminar paper about Godot Engine for Indie Developers
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 weeks ago) - Extensions for ng-bootstrap
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (3 weeks ago) - Data and R-Code for a paper about game engines on Itch.io
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (1 month ago) - Java Code-Camp Context Awareness 2
-- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (1 month ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (1 month ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
+- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (1 month ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (5 months ago) - Solution to Three missionaries and three cannibals problem 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (5 months ago) - :zap: Dynamically generated stats for your github readmes
 
 #### 🌱 My latest projects
 
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) - Solution to Three missionaries and three cannibals problem 
@@ -29,7 +30,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) - Calendar tool for coordinating meetings
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
-- [Morphclue/getting-started-with-css](https://github.com/Morphclue/getting-started-with-css) - Solution for the &#34;Getting Started with CSS&#34; course by Jen Kramer
 
 #### 🔭 Latest releases I've contributed to
 
