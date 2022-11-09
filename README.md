@@ -7,10 +7,10 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (4 days ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (5 days ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (3 weeks ago) - Seminar paper about Godot Engine for Indie Developers
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (4 weeks ago) - Extensions for ng-bootstrap
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 month ago) - Extensions for ng-bootstrap
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (1 month ago) - Data and R-Code for a paper about game engines on Itch.io
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (2 months ago) - Java Code-Camp Context Awareness 2
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (2 months ago) - Design of the UK4You platform using different design-methods
