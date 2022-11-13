@@ -14,8 +14,8 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (1 month ago) - Data and R-Code for a paper about game engines on Itch.io
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (2 months ago) - Java Code-Camp Context Awareness 2
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (2 months ago) - Design of the UK4You platform using different design-methods
-- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (2 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 months ago) - This tool fetches all games on itch.io to create a trend history
+- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (2 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (6 months ago) - Solution to Three missionaries and three cannibals problem 
 
 #### 🌱 My latest projects
