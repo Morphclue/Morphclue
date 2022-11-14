@@ -7,15 +7,15 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (today) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (1 week ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (3 weeks ago) - Seminar paper about Godot Engine for Indie Developers
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 month ago) - Extensions for ng-bootstrap
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (1 month ago) - Data and R-Code for a paper about game engines on Itch.io
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (2 months ago) - Java Code-Camp Context Awareness 2
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (2 months ago) - Design of the UK4You platform using different design-methods
-- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 months ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (2 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 months ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) (6 months ago) - Solution to Three missionaries and three cannibals problem 
 
 #### 🌱 My latest projects
