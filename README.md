@@ -42,11 +42,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👯 Check out some of my recent followers
 
+- [Giulcoo](https://github.com/Giulcoo)
 - [JonWofr](https://github.com/JonWofr)
 - [SteffenKr](https://github.com/SteffenKr)
 - [dargmuesli](https://github.com/dargmuesli)
 - [Maiswaffeln](https://github.com/Maiswaffeln)
-- [Galass94](https://github.com/Galass94)
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
