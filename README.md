@@ -37,7 +37,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.12.0](https://github.com/fujaba/fulib.org/releases/tag/v1.12.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), 2 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) ([v1.0.0](https://github.com/Morphclue/computing-and-society-2/releases/tag/v1.0.0), 2 months ago) - Design of the UK4You platform using different design-methods
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 1 year ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 1 year ago) - Extensions for ng-bootstrap
 
 #### 👯 Check out some of my recent followers
