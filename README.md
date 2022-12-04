@@ -7,13 +7,13 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (1 week ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (1 month ago) - Seminar paper about Godot Engine for Indie Developers
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 month ago) - Extensions for ng-bootstrap
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (2 months ago) - Data and R-Code for a paper about game engines on Itch.io
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (2 months ago) - Java Code-Camp Context Awareness 2
+- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (3 months ago) - Java Code-Camp Context Awareness 2
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (3 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (3 months ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (3 months ago) - This tool fetches all games on itch.io to create a trend history
@@ -33,7 +33,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.1](https://github.com/fujaba/fulib.org/releases/tag/v1.13.1), 1 day ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.1](https://github.com/fujaba/fulib.org/releases/tag/v1.13.1), 2 days ago) - The fulib.org website and Fulib Scenarios web app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v1.0.0](https://github.com/Morphclue/godot-seminar/releases/tag/v1.0.0), 1 month ago) - Seminar paper about Godot Engine for Indie Developers
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), 3 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
