@@ -15,8 +15,8 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 months ago) - Extensions for ng-bootstrap
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (2 months ago) - Data and R-Code for a paper about game engines on Itch.io
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (3 months ago) - Java Code-Camp Context Awareness 2
-- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (3 months ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (3 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (3 months ago) - Design of the UK4You platform using different design-methods
 
 #### 🌱 My latest projects
 
