@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (4 days ago) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (5 days ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (1 week ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (2 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
@@ -33,7 +33,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.1](https://github.com/fujaba/fulib.org/releases/tag/v1.13.1), 1 week ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.1](https://github.com/fujaba/fulib.org/releases/tag/v1.13.1), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 2 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v1.0.0](https://github.com/Morphclue/godot-seminar/releases/tag/v1.0.0), 1 month ago) - Seminar paper about Godot Engine for Indie Developers
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), 3 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
