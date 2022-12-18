@@ -7,9 +7,9 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (today) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (6 days ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (1 day ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (1 week ago) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (3 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (2 months ago) - Seminar paper about Godot Engine for Indie Developers
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 months ago) - Extensions for ng-bootstrap
