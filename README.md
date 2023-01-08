@@ -7,12 +7,12 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (today) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (1 day ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (3 weeks ago) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (4 weeks ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (2 months ago) - Seminar paper about Godot Engine for Indie Developers
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 months ago) - Extensions for ng-bootstrap
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (3 months ago) - Extensions for ng-bootstrap
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (3 months ago) - Data and R-Code for a paper about game engines on Itch.io
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (4 months ago) - Java Code-Camp Context Awareness 2
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) (4 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
