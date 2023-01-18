@@ -7,9 +7,9 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (1 day ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (3 days ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
+- [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (2 days ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (4 days ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (1 month ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (3 months ago) - Seminar paper about Godot Engine for Indie Developers
