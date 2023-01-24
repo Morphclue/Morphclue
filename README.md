@@ -7,6 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (today) - TUI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (1 week ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (1 week ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
@@ -16,10 +17,10 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (3 months ago) - Extensions for ng-bootstrap
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (3 months ago) - Data and R-Code for a paper about game engines on Itch.io
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (4 months ago) - Java Code-Camp Context Awareness 2
-- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) (4 months ago) - Design of the UK4You platform using different design-methods
 
 #### 🌱 My latest projects
 
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) - TUI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
@@ -29,7 +30,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) - Java Code-Camp Context Awareness 2
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) - Calendar tool for coordinating meetings
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) - The sociotechnical aspects of the therapeutic software agent Woebot
-- [Morphclue/simple-stocks](https://github.com/Morphclue/simple-stocks) - Solution for chapter 2 from the &#34;Angular in Action&#34; book
 
 #### 🔭 Latest releases I've contributed to
 
