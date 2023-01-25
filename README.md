@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 day ago) - TUI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 day ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (1 week ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (1 week ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
@@ -20,7 +20,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🌱 My latest projects
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) - TUI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
