@@ -7,10 +7,10 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 day ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (2 weeks ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (2 weeks ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (1 month ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (2 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (3 months ago) - Seminar paper about Godot Engine for Indie Developers
