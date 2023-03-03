@@ -7,6 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (today) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 week ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (1 month ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
@@ -16,7 +17,6 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (4 months ago) - Seminar paper about Godot Engine for Indie Developers
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (4 months ago) - Extensions for ng-bootstrap
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (5 months ago) - Data and R-Code for a paper about game engines on Itch.io
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) (5 months ago) - Java Code-Camp Context Awareness 2
 
 #### 🌱 My latest projects
 
