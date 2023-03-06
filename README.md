@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 days ago) - This tool fetches all games on itch.io to create a trend history
+- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (3 days ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 week ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (1 month ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
