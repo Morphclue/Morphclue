@@ -7,7 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (2 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (3 weeks ago) - This tool fetches all games on itch.io to create a trend history
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (3 months ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
@@ -16,7 +16,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (5 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (6 months ago) - Seminar paper about Godot Engine for Indie Developers
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (6 months ago) - Extensions for ng-bootstrap
-- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (6 months ago) - Data and R-Code for a paper about game engines on Itch.io
+- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (7 months ago) - Data and R-Code for a paper about game engines on Itch.io
 
 #### 🌱 My latest projects
 
