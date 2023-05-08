@@ -43,11 +43,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👯 Check out some of my recent followers
 
+- [ohmyj](https://github.com/ohmyj)
 - [UeberallGebannt](https://github.com/UeberallGebannt)
 - [TheoNickz](https://github.com/TheoNickz)
 - [abcddev](https://github.com/abcddev)
 - [guvenkarabulut](https://github.com/guvenkarabulut)
-- [vedatfindik](https://github.com/vedatfindik)
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
