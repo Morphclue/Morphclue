@@ -7,11 +7,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (4 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (5 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (3 months ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (3 months ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (4 months ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (5 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (5 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (6 months ago) - Seminar paper about Godot Engine for Indie Developers
@@ -39,7 +39,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), 8 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) ([v1.0.0](https://github.com/Morphclue/computing-and-society-2/releases/tag/v1.0.0), 8 months ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 1 year ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 1 year ago) - Extensions for ng-bootstrap
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 2 years ago) - Extensions for ng-bootstrap
 
 #### 👯 Check out some of my recent followers
 
