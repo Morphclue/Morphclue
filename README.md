@@ -7,20 +7,22 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (2 days ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 week ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) (1 month ago) - Interviews about formal concepts analysis in form of transcripts
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (4 months ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (4 months ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (5 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (5 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (7 months ago) - Seminar paper about Godot Engine for Indie Developers
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (7 months ago) - Extensions for ng-bootstrap
-- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (7 months ago) - Data and R-Code for a paper about game engines on Itch.io
 
 #### 🌱 My latest projects
 
+- [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) - Interviews about formal concepts analysis in form of transcripts
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
 - [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
@@ -28,11 +30,11 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) - Android-Kotlin fundamentals course
 - [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) - Custom Graph Engine
 - [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) - Java Code-Camp Context Awareness 2
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) - Calendar tool for coordinating meetings
-- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) - The sociotechnical aspects of the therapeutic software agent Woebot
 
 #### 🔭 Latest releases I've contributed to
 
+- [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) ([v1.0.0](https://github.com/Morphclue/master-thesis-transcripts/releases/tag/v1.0.0), today) - Interviews about formal concepts analysis in form of transcripts
+- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) ([v1.0.0](https://github.com/Morphclue/master-thesis/releases/tag/v1.0.0), today) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 2 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 5 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v1.0.0](https://github.com/Morphclue/godot-seminar/releases/tag/v1.0.0), 7 months ago) - Seminar paper about Godot Engine for Indie Developers
