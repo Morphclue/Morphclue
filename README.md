@@ -7,9 +7,9 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (4 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (1 week ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (5 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (2 weeks ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) (1 month ago) - Interviews about a alternative navigation paradigm in form of transcripts
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (4 months ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
@@ -38,8 +38,8 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 3 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 6 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v1.0.0](https://github.com/Morphclue/godot-seminar/releases/tag/v1.0.0), 7 months ago) - Seminar paper about Godot Engine for Indie Developers
-- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), 8 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
-- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) ([v1.0.0](https://github.com/Morphclue/computing-and-society-2/releases/tag/v1.0.0), 8 months ago) - Design of the UK4You platform using different design-methods
+- [Morphclue/computing-and-society](https://github.com/Morphclue/computing-and-society) ([v1.0.0](https://github.com/Morphclue/computing-and-society/releases/tag/v1.0.0), 9 months ago) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) ([v1.0.0](https://github.com/Morphclue/computing-and-society-2/releases/tag/v1.0.0), 9 months ago) - Design of the UK4You platform using different design-methods
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 2 years ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 2 years ago) - Extensions for ng-bootstrap
 
