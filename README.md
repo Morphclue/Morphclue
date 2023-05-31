@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (today) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (6 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (2 weeks ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) (1 month ago) - Interviews about a alternative navigation paradigm in form of transcripts
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
