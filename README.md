@@ -7,14 +7,14 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (2 weeks ago) - This tool visualizes evolution charts of digimon
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (3 weeks ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (2 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (2 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) (4 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (4 months ago) - This tool fetches all games on itch.io to create a trend history
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (6 months ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (6 months ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (7 months ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (8 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (8 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
