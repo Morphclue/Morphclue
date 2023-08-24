@@ -7,9 +7,9 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (today) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (today) - Organization README
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (today) - This tool visualizes evolution charts of digimon
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 day ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (1 day ago) - Organization README
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 day ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (3 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) (4 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
