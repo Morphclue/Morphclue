@@ -7,10 +7,10 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (3 days ago) - Organization README
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (4 days ago) - This tool visualizes evolution charts of digimon
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (6 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
+- [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (4 days ago) - Organization README
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (5 days ago) - This tool visualizes evolution charts of digimon
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 week ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (3 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) (4 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (4 months ago) - This tool fetches all games on itch.io to create a trend history
