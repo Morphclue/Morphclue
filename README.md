@@ -7,8 +7,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (6 days ago) - This tool visualizes evolution charts of digimon
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 week ago) - This tool visualizes evolution charts of digimon
 - [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (1 week ago) - Organization README
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (2 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (3 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
@@ -16,7 +16,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (5 months ago) - This tool fetches all games on itch.io to create a trend history
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (7 months ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (7 months ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (8 months ago) - Bachelor Thesis - Conception and development of a role-playing game
+- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (9 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 
 #### 🌱 My latest projects
 
