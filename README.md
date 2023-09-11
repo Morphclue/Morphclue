@@ -15,7 +15,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) (5 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (5 months ago) - This tool fetches all games on itch.io to create a trend history
 - [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (7 months ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (7 months ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
+- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (8 months ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (9 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 
 #### 🌱 My latest projects
