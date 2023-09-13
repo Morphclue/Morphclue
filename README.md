@@ -38,11 +38,11 @@ My focus lies on open source development and helping other developers when I hav
 - [guvenkarabulut](https://github.com/guvenkarabulut)
 
 #### 📃 If you are into reading
-- [https://github.com/Morphclue/bachelor-thesis](Bachelor Thesis) - Conception and development of a role-playing game
-- [https://github.com/Morphclue/master-thesis](Master Thesis) - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
-- [https://github.com/Morphclue/godot-seminar](Godot Seminar) - Seminar paper about Godot Engine for Indie Developers
-- [https://github.com/Morphclue/computing-and-society](Computing and Society I) - The sociotechnical aspects of the therapeutic software agent Woebot
-- [https://github.com/Morphclue/computing-and-society-2](Computing and Society II) - Design of the UK4You platform using different design-methods
+- [Bachelor Thesis](https://github.com/Morphclue/bachelor-thesis) - Conception and development of a role-playing game
+- [Master Thesis](https://github.com/Morphclue/master-thesis) - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
+- [Godot Seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
+- [Computing and Society I](https://github.com/Morphclue/computing-and-society) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [Computing and Society II](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
