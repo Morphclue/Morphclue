@@ -39,7 +39,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 📃 If you are into reading
 - [Bachelor Thesis](https://github.com/Morphclue/bachelor-thesis) - Conception and development of a role-playing game
-- [Master Thesis](https://github.com/Morphclue/master-thesis) - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
+- [Master Thesis](https://github.com/Morphclue/master-thesis) - Exploration and (further) development of an alternative navigation paradigm
 - [Godot Seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
 - [Computing and Society I](https://github.com/Morphclue/computing-and-society) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Computing and Society II](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
