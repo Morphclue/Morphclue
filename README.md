@@ -2,8 +2,8 @@
 
 
 <img align="right" src="https://github.com/Morphclue/Morphclue/blob/master/assets/animated-logo.gif" alt="Animated Logo" width="256" height="256" />
-I'm Julian, currently a Master Computer Science Student. 
-I wanted to focus more on open-source development in the future and help out other developers when i got time available.
+I'm Julian and I'm currently working for a company as a middleware developer. I have a Master of Science in Computer Science and enjoy working as a fullstack developer as a private person.
+My focus lies on open source development and helping other developers when I have time.
 
 #### 👷 Check out what I'm currently working on
 
