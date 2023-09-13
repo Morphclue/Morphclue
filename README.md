@@ -12,11 +12,6 @@ My focus lies on open source development and helping other developers when I hav
 - [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (2 weeks ago) - Organization README
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (3 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (4 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
-- [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) (5 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
-- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (5 months ago) - This tool fetches all games on itch.io to create a trend history
-- [Galass94/YugiohSearch](https://github.com/Galass94/YugiohSearch) (8 months ago) - CLI program to search for yugioh cards by name and find the card text and cardmarket/tcgplayer price
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) (8 months ago) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) (9 months ago) - Bachelor Thesis - Conception and development of a role-playing game
 
 #### 🌱 My latest projects
 
@@ -25,11 +20,6 @@ My focus lies on open source development and helping other developers when I hav
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/stochastics](https://github.com/Morphclue/stochastics) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
-- [Morphclue/computing-and-society-2](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
-- [Morphclue/groove-rivercrossing](https://github.com/Morphclue/groove-rivercrossing) - Solution to Three missionaries and three cannibals problem 
-- [Morphclue/android-tutorial](https://github.com/Morphclue/android-tutorial) - Android-Kotlin fundamentals course
-- [Morphclue/graph-engine](https://github.com/Morphclue/graph-engine) - Custom Graph Engine
-- [Morphclue/code-camp-2](https://github.com/Morphclue/code-camp-2) - Java Code-Camp Context Awareness 2
 
 #### 🔭 Latest releases I've contributed to
 
@@ -38,8 +28,6 @@ My focus lies on open source development and helping other developers when I hav
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 6 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 9 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v1.0.0](https://github.com/Morphclue/godot-seminar/releases/tag/v1.0.0), 11 months ago) - Seminar paper about Godot Engine for Indie Developers
-- [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 2 years ago) - Bachelor Thesis - Conception and development of a role-playing game
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 2 years ago) - Extensions for ng-bootstrap
 
 #### 👯 Check out some of my recent followers
 
@@ -48,6 +36,13 @@ My focus lies on open source development and helping other developers when I hav
 - [TheoNickz](https://github.com/TheoNickz)
 - [abcddev](https://github.com/abcddev)
 - [guvenkarabulut](https://github.com/guvenkarabulut)
+
+#### 📃 If you are into reading
+- [https://github.com/Morphclue/bachelor-thesis](Bachelor Thesis) - Conception and development of a role-playing game
+- [https://github.com/Morphclue/master-thesis](Master Thesis) - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
+- [https://github.com/Morphclue/godot-seminar](Godot Seminar) - Seminar paper about Godot Engine for Indie Developers
+- [https://github.com/Morphclue/computing-and-society](Computing and Society I) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [https://github.com/Morphclue/computing-and-society-2](Computing and Society II) - Design of the UK4You platform using different design-methods
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
