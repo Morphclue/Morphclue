@@ -6,17 +6,17 @@ I'm Julian and I'm currently working for a company as a middleware developer. I 
 My focus lies on open source development and helping other developers when I have time.
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}) - {{.Repo.Description}}
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
+{{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
@@ -24,6 +24,13 @@ My focus lies on open source development and helping other developers when I hav
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
+
+#### 📃 If you are into reading
+- [https://github.com/Morphclue/bachelor-thesis](Bachelor Thesis) - Conception and development of a role-playing game
+- [https://github.com/Morphclue/master-thesis](Master Thesis) - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
+- [https://github.com/Morphclue/godot-seminar](Godot Seminar) - Seminar paper about Godot Engine for Indie Developers
+- [https://github.com/Morphclue/computing-and-society](Computing and Society I) - The sociotechnical aspects of the therapeutic software agent Woebot
+- [https://github.com/Morphclue/computing-and-society-2](Computing and Society II) - Design of the UK4You platform using different design-methods
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
