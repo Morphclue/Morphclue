@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (4 days ago) - This tool visualizes evolution charts of digimon
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (5 days ago) - This tool visualizes evolution charts of digimon
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (3 weeks ago) - Organization README
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (3 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (4 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
@@ -25,7 +25,7 @@ My focus lies on open source development and helping other developers when I hav
 
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) ([v1.0.0](https://github.com/Morphclue/master-thesis-transcripts/releases/tag/v1.0.0), 4 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) ([v1.0.0](https://github.com/Morphclue/master-thesis/releases/tag/v1.0.0), 4 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 6 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 7 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 9 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v1.0.0](https://github.com/Morphclue/godot-seminar/releases/tag/v1.0.0), 11 months ago) - Seminar paper about Godot Engine for Indie Developers
 
