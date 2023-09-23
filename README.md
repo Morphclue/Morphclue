@@ -9,7 +9,7 @@ My focus lies on open source development and helping other developers when I hav
 
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 week ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
-- [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (3 weeks ago) - Organization README
+- [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (4 weeks ago) - Organization README
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 month ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (4 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 
