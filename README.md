@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 week ago) - This tool visualizes evolution charts of digimon
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (2 weeks ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (1 month ago) - Organization README
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 month ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
