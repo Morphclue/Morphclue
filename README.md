@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (1 day ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
+- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) (2 days ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 week ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [Feature-Fox/.github](https://github.com/Feature-Fox/.github) (1 month ago) - Organization README
