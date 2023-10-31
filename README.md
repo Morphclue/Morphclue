@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (today) - This tool visualizes evolution charts of digimon
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 day ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (1 week ago) - R-Code and data for game engines on itch.io
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (2 weeks ago) - This tool fetches all games on itch.io to create a trend history
