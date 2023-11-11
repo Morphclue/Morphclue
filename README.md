@@ -7,11 +7,11 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 week ago) - This tool visualizes evolution charts of digimon
-- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (2 weeks ago) - R-Code and data for game engines on itch.io
+- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (3 weeks ago) - R-Code and data for game engines on itch.io
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (3 weeks ago) - This tool fetches all games on itch.io to create a trend history
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (4 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 month ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
 #### 🌱 My latest projects
 
