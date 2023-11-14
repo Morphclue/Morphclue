@@ -7,10 +7,10 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (2 weeks ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (3 weeks ago) - R-Code and data for game engines on itch.io
-- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (4 weeks ago) - This tool fetches all games on itch.io to create a trend history
+- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 month ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
 #### 🌱 My latest projects
@@ -23,8 +23,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) ([v1.0.0](https://github.com/Morphclue/master-thesis-transcripts/releases/tag/v1.0.0), 5 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
-- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) ([v1.0.0](https://github.com/Morphclue/master-thesis/releases/tag/v1.0.0), 5 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
+- [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) ([v1.0.0](https://github.com/Morphclue/master-thesis-transcripts/releases/tag/v1.0.0), 6 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
+- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) ([v1.0.0](https://github.com/Morphclue/master-thesis/releases/tag/v1.0.0), 6 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 8 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 11 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/bachelor-thesis](https://github.com/Morphclue/bachelor-thesis) ([v1.0.0](https://github.com/Morphclue/bachelor-thesis/releases/tag/v1.0.0), 2 years ago) - Bachelor Thesis - Conception and development of a role-playing game
