@@ -8,14 +8,14 @@ My focus lies on open source development and helping other developers when I hav
 #### 👷 Check out what I'm currently working on
 
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
-- [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (today) - 
+- [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (today) - My advent of code solutions
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (4 days ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (1 month ago) - R-Code and data for game engines on itch.io
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 month ago) - This tool fetches all games on itch.io to create a trend history
 
 #### 🌱 My latest projects
 
-- [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) - 
+- [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) - My advent of code solutions
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) - Interviews about an alternative navigation paradigm in form of transcripts
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
