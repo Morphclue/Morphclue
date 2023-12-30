@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 day ago) - This tool fetches all games on itch.io to create a trend history
-- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (3 days ago) - Seminar paper about Godot Engine for Indie Developers
+- [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 day ago) - itch.io fetcher for creating a trend history
+- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (3 days ago) - Paper about Godot Engine for Indie Developers
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (2 weeks ago) - Advent of code solutions 🎄
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (2 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
@@ -23,7 +23,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v2.0.0](https://github.com/Morphclue/godot-seminar/releases/tag/v2.0.0), 1 week ago) - Seminar paper about Godot Engine for Indie Developers
+- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v2.0.0](https://github.com/Morphclue/godot-seminar/releases/tag/v2.0.0), 1 week ago) - Paper about Godot Engine for Indie Developers
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) ([v1.0.0](https://github.com/Morphclue/master-thesis-transcripts/releases/tag/v1.0.0), 7 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) ([v1.0.0](https://github.com/Morphclue/master-thesis/releases/tag/v1.0.0), 7 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 10 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
