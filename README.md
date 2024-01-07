@@ -7,9 +7,9 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (today) - Advent of code solutions 🎄
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 week ago) - itch.io fetcher for creating a trend history
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (1 week ago) - Paper about Godot Engine for Indie Developers
-- [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (3 weeks ago) - Advent of code solutions 🎄
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (3 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 
