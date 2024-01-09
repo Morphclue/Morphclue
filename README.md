@@ -9,17 +9,17 @@ My focus lies on open source development and helping other developers when I hav
 
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (today) - R-Code and data for game engines on itch.io
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (today) - Paper about Godot Engine for Indie Developers
+- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (today) - Elements of AI - Building AI Course
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (2 days ago) - Advent of code solutions 🎄
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 week ago) - itch.io fetcher for creating a trend history
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (3 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
 #### 🌱 My latest projects
 
+- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) - Elements of AI - Building AI Course
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) - Advent of code solutions 🎄
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) - Interviews about an alternative navigation paradigm in form of transcripts
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
-- [Morphclue/stochastics](https://github.com/Morphclue/stochastics) - Solutions for the &#34;Higher Mathematics IV - Stochastics for Engineers&#34; course
 
 #### 🔭 Latest releases I've contributed to
 
