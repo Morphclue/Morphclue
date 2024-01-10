@@ -7,10 +7,10 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (today) - R-Code and data for game engines on itch.io
-- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (today) - Elements of AI - Building AI Course
-- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (today) - Paper about Godot Engine for Indie Developers
-- [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (2 days ago) - Advent of code solutions 🎄
+- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (1 day ago) - R-Code and data for game engines on itch.io
+- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (1 day ago) - Elements of AI - Building AI Course
+- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (1 day ago) - Paper about Godot Engine for Indie Developers
+- [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (3 days ago) - Advent of code solutions 🎄
 - [Morphclue/trend-itch](https://github.com/Morphclue/trend-itch) (1 week ago) - itch.io fetcher for creating a trend history
 
 #### 🌱 My latest projects
