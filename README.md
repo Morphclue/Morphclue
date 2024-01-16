@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (6 days ago) - Elements of AI - Building AI Course
+- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (today) - Elements of AI - Building AI Course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (1 week ago) - Paper about Godot Engine for Indie Developers
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (1 week ago) - R-Code and data for game engines on itch.io
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (1 week ago) - Advent of code solutions 🎄
