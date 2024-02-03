@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (today) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 day ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (1 week ago) - Elements of AI - Building AI Course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (3 weeks ago) - Paper about Godot Engine for Indie Developers
 - [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (3 weeks ago) - R-Code and data for game engines on itch.io
