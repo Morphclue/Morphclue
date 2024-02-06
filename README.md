@@ -7,11 +7,11 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (3 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (1 week ago) - Elements of AI - Building AI Course
-- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (3 weeks ago) - Paper about Godot Engine for Indie Developers
-- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (3 weeks ago) - R-Code and data for game engines on itch.io
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (4 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (2 weeks ago) - Elements of AI - Building AI Course
+- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (4 weeks ago) - Paper about Godot Engine for Indie Developers
+- [Morphclue/godot-trend](https://github.com/Morphclue/godot-trend) (4 weeks ago) - R-Code and data for game engines on itch.io
 
 #### 🌱 My latest projects
 
