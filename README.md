@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (3 days ago) - This tool visualizes evolution charts of digimon
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (4 days ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 week ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (3 weeks ago) - Elements of AI - Building AI Course
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) (1 month ago) - Paper about Godot Engine for Indie Developers
@@ -26,7 +26,7 @@ My focus lies on open source development and helping other developers when I hav
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v2.0.1](https://github.com/Morphclue/godot-seminar/releases/tag/v2.0.1), 1 month ago) - Paper about Godot Engine for Indie Developers
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) ([v1.0.0](https://github.com/Morphclue/master-thesis-transcripts/releases/tag/v1.0.0), 9 months ago) - Interviews about an alternative navigation paradigm in form of transcripts
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) ([v1.0.0](https://github.com/Morphclue/master-thesis/releases/tag/v1.0.0), 9 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 11 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 1 year ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
 #### 👯 Check out some of my recent followers
 
