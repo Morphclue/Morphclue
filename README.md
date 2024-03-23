@@ -7,11 +7,11 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Feature-Fox/reply-2024](https://github.com/Feature-Fox/reply-2024) (1 day ago) - Reply Code Challenge 2024 - Standard Edition
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (6 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Feature-Fox/reply-2024](https://github.com/Feature-Fox/reply-2024) (2 days ago) - Reply Code Challenge 2024 - Standard Edition
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 week ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
-- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (1 month ago) - Elements of AI - Building AI Course
+- [Morphclue/building-ai](https://github.com/Morphclue/building-ai) (2 months ago) - Elements of AI - Building AI Course
 
 #### 🌱 My latest projects
 
