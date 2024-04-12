@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
-- [fujaba/fulib](https://github.com/fujaba/fulib) (6 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
+- [fujaba/fulib](https://github.com/fujaba/fulib) (1 week ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Feature-Fox/reply-2024](https://github.com/Feature-Fox/reply-2024) (3 weeks ago) - Reply Code Challenge 2024 - Standard Edition
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (3 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (2 months ago) - This tool visualizes evolution charts of digimon
@@ -25,7 +25,7 @@ My focus lies on open source development and helping other developers when I hav
 
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v2.0.1](https://github.com/Morphclue/godot-seminar/releases/tag/v2.0.1), 3 months ago) - Paper about Godot Engine for Indie Developers
-- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) ([v1.0.0](https://github.com/Morphclue/master-thesis/releases/tag/v1.0.0), 10 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
+- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) ([v1.0.0](https://github.com/Morphclue/master-thesis/releases/tag/v1.0.0), 11 months ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 1 year ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
 #### 👯 Check out some of my recent followers
