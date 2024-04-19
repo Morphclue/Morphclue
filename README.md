@@ -7,11 +7,11 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/digichart](https://github.com/Morphclue/digichart) (2 days ago) - This tool visualizes evolution charts of digimon
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Feature-Fox/reply-2024](https://github.com/Feature-Fox/reply-2024) (4 weeks ago) - Reply Code Challenge 2024 - Standard Edition
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 month ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [Morphclue/digichart](https://github.com/Morphclue/digichart) (2 months ago) - This tool visualizes evolution charts of digimon
 
 #### 🌱 My latest projects
 
