@@ -24,7 +24,7 @@ My focus lies on open source development and helping other developers when I hav
 #### 🔭 Latest releases I've contributed to
 
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 3 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v2.0.1](https://github.com/Morphclue/godot-seminar/releases/tag/v2.0.1), 4 months ago) - Paper about Godot Engine for Indie Developers
+- [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v2.0.1](https://github.com/Morphclue/godot-seminar/releases/tag/v2.0.1), 5 months ago) - Paper about Godot Engine for Indie Developers
 - [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) ([v1.0.0](https://github.com/Morphclue/master-thesis/releases/tag/v1.0.0), 1 year ago) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 1 year ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
