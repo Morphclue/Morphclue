@@ -11,7 +11,7 @@ My focus lies on open source development and helping other developers when I hav
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [Feature-Fox/reply-2024](https://github.com/Feature-Fox/reply-2024) (2 months ago) - Reply Code Challenge 2024 - Standard Edition
+- [Feature-Fox/reply-2024](https://github.com/Feature-Fox/reply-2024) (3 months ago) - Reply Code Challenge 2024 - Standard Edition
 
 #### 🌱 My latest projects
 
