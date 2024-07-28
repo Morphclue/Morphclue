@@ -7,19 +7,19 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (today) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 week ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (3 weeks ago) - This tool visualizes evolution charts of digimon
 - [fujaba/fulib](https://github.com/fujaba/fulib) (3 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [Feature-Fox/reply-2024](https://github.com/Feature-Fox/reply-2024) (4 months ago) - Reply Code Challenge 2024 - Standard Edition
 
 #### 🌱 My latest projects
 
+- [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 - [Morphclue/building-ai](https://github.com/Morphclue/building-ai) - Elements of AI - Building AI Course
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) - Advent of code solutions 🎄
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) - Interviews about an alternative navigation paradigm in form of transcripts
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [Morphclue/master-thesis](https://github.com/Morphclue/master-thesis) - Master Thesis - Exploration and (further) development of an alternative navigation paradigm to promote critical evaluation skills in the use of user interfaces
 
 #### 🔭 Latest releases I've contributed to
 
