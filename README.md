@@ -31,10 +31,10 @@ My focus lies on open source development and helping other developers when I hav
 #### 👯 Check out some of my recent followers
 
 - [drews](https://github.com/drews)
-- [eust-w](https://github.com/eust-w)
 - [Tawmy](https://github.com/Tawmy)
 - [naikaida](https://github.com/naikaida)
 - [LLeeJr](https://github.com/LLeeJr)
+- [seanpm2001](https://github.com/seanpm2001)
 
 #### 📃 If you are into reading
 - [Bachelor Thesis](https://github.com/Morphclue/bachelor-thesis) - Conception and development of a role-playing game
