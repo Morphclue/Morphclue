@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 day ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (today) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (1 week ago) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (1 month ago) - This tool visualizes evolution charts of digimon
@@ -42,7 +42,10 @@ My focus lies on open source development and helping other developers when I hav
 - [Godot Seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
 - [Computing and Society I](https://github.com/Morphclue/computing-and-society) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Computing and Society II](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
+- Diverse Perspectives of News Article (mid October)
 - Steam game libraries (WIP)
+- Position Bias in News Recommender Systems (WIP)
+- Protector instinct in ICO (WIP)
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
