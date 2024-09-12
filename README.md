@@ -32,7 +32,7 @@ My focus lies on open source development and helping other developers when I hav
 
 - [drews](https://github.com/drews)
 - [Tawmy](https://github.com/Tawmy)
-- [naikaida](https://github.com/naikaida)
+- [naiikaa](https://github.com/naiikaa)
 - [LLeeJr](https://github.com/LLeeJr)
 - [seanpm2001](https://github.com/seanpm2001)
 
