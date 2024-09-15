@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (5 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (6 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (1 month ago) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (2 months ago) - This tool visualizes evolution charts of digimon
