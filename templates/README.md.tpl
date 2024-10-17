@@ -31,7 +31,7 @@ My focus lies on open source development and helping other developers when I hav
 - [Godot Seminar](https://github.com/Morphclue/godot-seminar) - Seminar paper about Godot Engine for Indie Developers
 - [Computing and Society I](https://github.com/Morphclue/computing-and-society) - The sociotechnical aspects of the therapeutic software agent Woebot
 - [Computing and Society II](https://github.com/Morphclue/computing-and-society-2) - Design of the UK4You platform using different design-methods
-- Diverse Perspectives of News Article (mid October)
+- [Disclosing Diverse Perspectives of News Articles for Navigating between Online Journalism Content](https://dl.acm.org/doi/abs/10.1145/3679318.3685414) - NordiCHI '24: Proceedings of the 13th Nordic Conference on Human-Computer Interaction
 - Steam game libraries (WIP)
 - Position Bias in News Recommender Systems (WIP)
 - Protector instinct in ICO (WIP)
