@@ -7,9 +7,9 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (4 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) (6 days ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (5 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) (1 week ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
 - [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (2 months ago) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 - [Morphclue/digichart](https://github.com/Morphclue/digichart) (3 months ago) - This tool visualizes evolution charts of digimon
 
@@ -23,7 +23,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 🔭 Latest releases I've contributed to
 
-- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) ([0.6.0.9](https://github.com/0auBSQ/OpenTaiko/releases/tag/0.6.0.9), today) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
+- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) ([0.6.0.9](https://github.com/0auBSQ/OpenTaiko/releases/tag/0.6.0.9), 1 day ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 8 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Morphclue/godot-seminar](https://github.com/Morphclue/godot-seminar) ([v2.0.1](https://github.com/Morphclue/godot-seminar/releases/tag/v2.0.1), 9 months ago) - Paper about Godot Engine for Indie Developers
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 2 years ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
