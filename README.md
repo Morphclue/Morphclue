@@ -7,10 +7,10 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
+- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) (today) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (1 day ago) - Advent of code solutions 🎄
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (2 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
-- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) (1 month ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
 - [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (4 months ago) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 
 #### 🌱 My latest projects
