@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (2 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (today) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (2 months ago) - Advent of code solutions 🎄
 - [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) (2 months ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 months ago) - Calendar tool for coordinating meetings
