@@ -7,19 +7,19 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (today) - Small todo app made with Vue.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (5 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (2 months ago) - Advent of code solutions 🎄
 - [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) (3 months ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
-- [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (7 months ago) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 
 #### 🌱 My latest projects
 
+- [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) - Small todo app made with Vue.
 - [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 - [Morphclue/building-ai](https://github.com/Morphclue/building-ai) - Elements of AI - Building AI Course
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) - Advent of code solutions 🎄
 - [Morphclue/master-thesis-transcripts](https://github.com/Morphclue/master-thesis-transcripts) - Interviews about an alternative navigation paradigm in form of transcripts
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
 #### 🔭 Latest releases I've contributed to
 
