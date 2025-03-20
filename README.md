@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (1 day ago) - Small todo app made with Vue
+- [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (today) - Small todo app made with Vue
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (6 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (2 months ago) - Advent of code solutions 🎄
