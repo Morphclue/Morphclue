@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (2 days ago) - Small todo app made with Vue
-- [Morphclue/cansumed](https://github.com/Morphclue/cansumed) (2 days ago) - Energy drink consumption website
+- [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (3 days ago) - Small todo app made with Vue
+- [Morphclue/cansumed](https://github.com/Morphclue/cansumed) (3 days ago) - Energy drink consumption website
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (2 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (3 months ago) - Advent of code solutions 🎄
@@ -23,7 +23,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 🔭 Latest releases I've contributed to
 
-- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) ([0.6.0.53](https://github.com/0auBSQ/OpenTaiko/releases/tag/0.6.0.53), today) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
+- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) ([0.6.0.53](https://github.com/0auBSQ/OpenTaiko/releases/tag/0.6.0.53), 1 day ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 1 year ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 2 years ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
