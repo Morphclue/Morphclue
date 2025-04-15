@@ -7,10 +7,10 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (4 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (5 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (1 week ago) - Small todo app made with Vue
 - [Morphclue/cansumed](https://github.com/Morphclue/cansumed) (2 weeks ago) - Energy drink consumption website
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 weeks ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (3 months ago) - Advent of code solutions 🎄
 
 #### 🌱 My latest projects
