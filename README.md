@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (4 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 month ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (1 month ago) - Small todo app made with Vue
 - [Morphclue/cansumed](https://github.com/Morphclue/cansumed) (2 months ago) - Energy drink consumption website
 - [Morphclue/advent-of-code](https://github.com/Morphclue/advent-of-code) (5 months ago) - Advent of code solutions 🎄
@@ -23,7 +23,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 🔭 Latest releases I've contributed to
 
-- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) ([0.6.0.75](https://github.com/0auBSQ/OpenTaiko/releases/tag/0.6.0.75), 2 days ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
+- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) ([0.6.0.75](https://github.com/0auBSQ/OpenTaiko/releases/tag/0.6.0.75), 3 days ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 2 years ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
 #### 👯 Check out some of my recent followers
