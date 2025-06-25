@@ -7,11 +7,11 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [ruuto102/simple-sns-backend](https://github.com/ruuto102/simple-sns-backend) (5 days ago) - 
+- [ruuto102/simple-sns-backend](https://github.com/ruuto102/simple-sns-backend) (today) - 
+- [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (today) - 
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 month ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (2 months ago) - Small todo app made with Vue
-- [Morphclue/cansumed](https://github.com/Morphclue/cansumed) (2 months ago) - Energy drink consumption website
 
 #### 🌱 My latest projects
 
