@@ -28,11 +28,11 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
+- [seckinyasar](https://github.com/seckinyasar)
 - [ruuto102](https://github.com/ruuto102)
 - [djvelimir](https://github.com/djvelimir)
 - [AmarHek](https://github.com/AmarHek)
-- [drews](https://github.com/drews)
-- [Tawmy](https://github.com/Tawmy)
 
 #### 📃 If you are into reading
 - [Bachelor Thesis](https://github.com/Morphclue/bachelor-thesis) - Conception and development of a role-playing game
