@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 day ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (3 weeks ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (2 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (4 weeks ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
 - [ruuto102/simple-sns-backend](https://github.com/ruuto102/simple-sns-backend) (1 month ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 months ago) - Calendar tool for coordinating meetings
 - [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (4 months ago) - Small todo app made with Vue
