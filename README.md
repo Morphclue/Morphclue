@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (2 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (1 month ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
 - [ruuto102/simple-sns-backend](https://github.com/ruuto102/simple-sns-backend) (2 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
