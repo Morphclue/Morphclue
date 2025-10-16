@@ -7,11 +7,11 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
+- [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode) (today) - For any queries regarding the contribution in the repo feel free to jump into the discord : https://discord.com/channels/707751027973161132/1426930376844115968
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (3 weeks ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (2 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
 - [ruuto102/simple-sns-backend](https://github.com/ruuto102/simple-sns-backend) (2 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
-- [Morphclue/vuedoo](https://github.com/Morphclue/vuedoo) (5 months ago) - Small todo app made with Vue
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👯 Check out some of my recent followers
 
+- [Sansi-28](https://github.com/Sansi-28)
 - [ruuto102](https://github.com/ruuto102)
 - [djvelimir](https://github.com/djvelimir)
 - [AmarHek](https://github.com/AmarHek)
 - [drews](https://github.com/drews)
-- [Tawmy](https://github.com/Tawmy)
 
 #### 📃 If you are into reading
 - [Bachelor Thesis](https://github.com/Morphclue/bachelor-thesis) - Conception and development of a role-playing game
