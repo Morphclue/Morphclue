@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
 - [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode) (1 week ago) - For any queries regarding the contribution in the repo feel free to jump into the discord : https://discord.com/channels/707751027973161132/1426930376844115968
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 month ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (2 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
@@ -23,7 +23,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 🔭 Latest releases I've contributed to
 
-- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) ([0.6.0.92](https://github.com/0auBSQ/OpenTaiko/releases/tag/0.6.0.92), 5 days ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
+- [0auBSQ/OpenTaiko](https://github.com/0auBSQ/OpenTaiko) ([0.6.0.92](https://github.com/0auBSQ/OpenTaiko/releases/tag/0.6.0.92), 6 days ago) - An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 2 years ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
 #### 👯 Check out some of my recent followers
