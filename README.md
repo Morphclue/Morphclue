@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
-- [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode) (1 week ago) - For any queries regarding the contribution in the repo feel free to jump into the discord : https://discord.com/channels/707751027973161132/1426930376844115968
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode) (2 weeks ago) - For any queries regarding the contribution in the repo feel free to jump into the discord : https://discord.com/channels/707751027973161132/1426930376844115968
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 month ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (2 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
 - [ruuto102/simple-sns-backend](https://github.com/ruuto102/simple-sns-backend) (2 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
