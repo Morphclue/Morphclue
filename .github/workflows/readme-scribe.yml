@@ -22,9 +22,7 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update generated README
           branch: master
