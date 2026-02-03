@@ -23,7 +23,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 2 years ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 3 years ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
 #### 👯 Check out some of my recent followers
 
