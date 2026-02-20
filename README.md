@@ -27,11 +27,11 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👯 Check out some of my recent followers
 
+- [standardgalactic](https://github.com/standardgalactic)
 - [SourceAura](https://github.com/SourceAura)
 - [Sansi-28](https://github.com/Sansi-28)
 - [ruuto102](https://github.com/ruuto102)
 - [djvelimir](https://github.com/djvelimir)
-- [AmarHek](https://github.com/AmarHek)
 
 #### 📃 If you are into reading
 - [Bachelor Thesis](https://github.com/Morphclue/bachelor-thesis) - Conception and development of a role-playing game
