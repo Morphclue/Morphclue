@@ -11,7 +11,7 @@ My focus lies on open source development and helping other developers when I hav
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 months ago) - Calendar tool for coordinating meetings
 - [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode) (4 months ago) - For any queries regarding the contribution in the repo feel free to jump into the discord : https://discord.com/channels/707751027973161132/1426930376844115968
 - [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (6 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
-- [ruuto102/simple-sns-backend](https://github.com/ruuto102/simple-sns-backend) (6 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
+- [ruuto102/simple-sns-backend](https://github.com/ruuto102/simple-sns-backend) (7 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
 
 #### 🌱 My latest projects
 
