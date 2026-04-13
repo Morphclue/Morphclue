@@ -54,8 +54,3 @@ Got an issue? Open a ticket. I will try my best to help you out.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats-two-green-81.vercel.app/api/wakatime?username=Morphclue&theme=dark&layout=compact&langs_count=10" height="200px" width="400px"/>
 </a>
-
-
-<!-- GitHub Activity Graph - https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Morphclue Activity Graph" 
-src="https://activity-graph.herokuapp.com/graph?username=Morphclue&bg_color=141414&color=FFFFFF&line=ea8204&point=c3c3c3&hide_border=true" /></a>
