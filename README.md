@@ -10,8 +10,8 @@ My focus lies on open source development and helping other developers when I hav
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (1 month ago) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (5 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode) (8 months ago) - For any queries regarding the contribution in the repo feel free to jump into the discord : https://discord.com/channels/707751027973161132/1426930376844115968
-- [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (10 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
+- [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode) (9 months ago) - For any queries regarding the contribution in the repo feel free to jump into the discord : https://discord.com/channels/707751027973161132/1426930376844115968
+- [ruuto102/simple-sns-frontend](https://github.com/ruuto102/simple-sns-frontend) (11 months ago) - A full-stack social networking app built with React, NestJS, and MongoDB.
 
 #### 🌱 My latest projects
 
