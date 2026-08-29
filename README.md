@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (6 days ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
+- [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (1 week ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (2 months ago) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 - [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode) (10 months ago) - For any queries regarding the contribution in the repo feel free to jump into the discord : https://discord.com/channels/707751027973161132/1426930376844115968
 
