@@ -7,7 +7,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (1 day ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (today) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (3 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (5 months ago) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
