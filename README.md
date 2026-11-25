@@ -7,8 +7,8 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (3 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (4 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) (3 months ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 - [Morphclue/the-nature-of-code](https://github.com/Morphclue/the-nature-of-code) (5 months ago) - Angular project for &#34;The nature of code&#34; by Daniel Shiffman
 
@@ -22,7 +22,7 @@ My focus lies on open source development and helping other developers when I hav
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.1.1](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.1.1), 4 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.1.1](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.1.1), 5 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) ([v1.0.0](https://github.com/Morphclue/apollusia/releases/tag/v1.0.0), 5 months ago) - Calendar tool for coordinating meetings
 - [Morphclue/ygo-bubble-tea](https://github.com/Morphclue/ygo-bubble-tea) ([v1.0.0](https://github.com/Morphclue/ygo-bubble-tea/releases/tag/v1.0.0), 3 years ago) - CLI for Yu-Gi-Oh! cards made with Bubble Tea
 
